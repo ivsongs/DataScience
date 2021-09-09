@@ -16,9 +16,14 @@ Contabilista desde 1997, ajuda clientes com soluções inovadoras em redesenho d
 Life Long Learning em Data Science, Python, JAVA, AI, Lean, Agile Culture, Data Driven Design e Privacy by Design.
 
 OKR Certified Professional (OKRCP) - CertiProf
+
 TKP - Team Kanban Practitioner - Kanban University
+
 CLF - Certified Lean Inception Facilitator - Caroli.org
+
 Management 3.0
+
+
 
 * [LinkedIn](https://www.linkedin.com/in/ivsongs)
 
