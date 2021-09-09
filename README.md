@@ -1,4 +1,4 @@
-# Data-Science
+# Data-Science: The science of sciences.
 Portfólio de Data Science
 
 <p align="center">
