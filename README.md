@@ -1,4 +1,4 @@
-# Data-Science: The science of sciences.
+# Data-Science: The science for the sciences.
 Portfólio de Data Science
 
 <p align="center">
@@ -29,6 +29,6 @@ Management 3.0
 
 ## Projetos:
 
-* **Analisando os Dados do Airbnb - Toronto:** https://bit.ly/2XgItL8
+* **Analisando os Dados do Airbnb - Toronto, ON, Canadá:** https://bit.ly/2XgItL8
 
 ---
