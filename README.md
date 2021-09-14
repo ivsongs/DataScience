@@ -29,6 +29,6 @@ Management 3.0
 
 ## Projetos:
 
-* **Analisando os Dados do Airbnb - Toronto, ON, Canadá:** https://bit.ly/2XgItL8
+* **Analisando os Dados do Airbnb - Toronto, ON, Canadá:** https://bit.ly/3huKgna
 
 ---
